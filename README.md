@@ -1,10 +1,10 @@
-🤖 Develop a lightweight conversational AI assistant using the Phi agent framework and GPT-4o.
+🤖 Develop a lightweight conversational AI assistant using the Phi agent framework and GPT-4.o.
 -------------------------------------------------------------------------------------------
 📌 Objective:
 --------------
 This project demonstrates the creation of a stateful conversational agent using the PhiData framework combined with OpenAI’s GPT-4o model. The agent is designed to respond to user inputs intelligently, with optional memory, markdown support, and system-level instructions.
 
-Built a GPT-4o-powered conversational agent using the Phi framework and OpenAIChat module.
+Built a GPT-4.o-powered conversational agent using the Phi framework and OpenAIChat module.
 
 Managed dialogue, memory, markdown formatting, and tool integration through the Agent object.
 
