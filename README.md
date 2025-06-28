@@ -4,6 +4,14 @@
 --------------
 This project demonstrates the creation of a stateful conversational agent using the PhiData framework combined with OpenAI’s GPT-4o model. The agent is designed to respond to user inputs intelligently, with optional memory, markdown support, and system-level instructions.
 
+Built a GPT-4o-powered conversational agent using the Phi framework and OpenAIChat module.
+
+Managed dialogue, memory, markdown formatting, and tool integration through the Agent object.
+
+Enabled intelligent, concise interactions using agentic reasoning and LLM capabilities.
+
+Demonstrated a lightweight, extensible architecture for LLM-powered conversational AI.
+
 -------------------------------------------------------------------------------------------
 🚀 Overview
 ---------------
