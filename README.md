@@ -1,4 +1,4 @@
-🤖 Conversational AI Agent with PhiData and GPT-4.0
+🤖 Develop a lightweight conversational AI assistant using the Phi agent framework and GPT-4o.
 -------------------------------------------------------------------------------------------
 📌 Objective:
 --------------
